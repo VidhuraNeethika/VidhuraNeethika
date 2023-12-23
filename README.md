@@ -6,6 +6,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=Vidhura000&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+<p align="center">
 
 ###  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vidhura000&theme=react&hide_border=true&include_all_commits=false&count_private=false)
