@@ -6,7 +6,7 @@
 
 ### GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Vidhura000&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Vidhura000&theme=chartreuse-dark&no-frame=true&no-bg=false&margin-w=4)
 
 ### Technologies:
 
@@ -29,10 +29,6 @@
 ### Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Vidhura000&limit=5&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353&combine_all_yearly_contributions=true)
-
-### Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353)
 
 </div>
 
