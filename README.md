@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/background/20210714/original/pngtree-vector-design-of-forest-background-in-the-jungle-on-a-sunset-picture-image_1199852.jpg)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/FsTDsXT/cover.png)]
 <div align="center">
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&random=false&width=1000&lines=Hey%2C+I'm+Vidhura+Neethika;I'm+BEng+(Hons)+Software+Engineering+Undergraduate>)](https://git.io/typing-svg)
