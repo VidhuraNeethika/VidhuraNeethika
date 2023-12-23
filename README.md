@@ -17,7 +17,11 @@
 
 ###  GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=vidhura000&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=vidhura000&show_icons=true&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353)
+<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhura000&layout=donut&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353)
 
 ### Top Contributed Repo
