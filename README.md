@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vidhura000&label=Profile%20views&color=0e75b6&style=flat" alt="Vidhura000" /> </p>
 
 ### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vidhura000&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Vidhura000&bg_color=0d1117&no-frame=true&no-bg=false&margin-w=4)
 
 
 ###  Technologies:
