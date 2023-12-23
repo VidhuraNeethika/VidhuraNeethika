@@ -44,16 +44,16 @@
 
 <p align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vidhura000&theme=reacta&hide_border=true&include_all_commits=false&count_private=false)
+###  GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vidhura000&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vidhura000&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhura000&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</p>
-
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vidhura000&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
 
