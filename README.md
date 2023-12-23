@@ -5,6 +5,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Vidhura000&label=Profile%20views&color=0d1117&style=for-the-badge" alt="Vidhura000" /> </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=vidhura000&theme=github-dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
+
 ### GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Vidhura000&theme=nord&no-frame=true&no-bg=false&margin-w=4)
@@ -18,9 +20,7 @@
 </p>
 
 ### GitHub Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vidhura000&theme=github-dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=vidhura000&show_icons=true&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353)
+![](https://github-readme-stats.vercel.app/api?username=vidhura000&show_icons=true&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhura000&layout=donut-vertical&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353)
 
 ### Top Contributed Repositories
