@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vidhura Neethika</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Vidhura+Neethika)](https://git.io/typing-svg)
 <h3 align="center">BEng (Hons) Software Engineering Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vidhura000&label=Profile%20views&color=0e75b6&style=flat" alt="Vidhura000" /> </p>
