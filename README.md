@@ -14,7 +14,7 @@
 ### Technologies:
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,postman,angular,angular,c,cpp,cloudflare,codepen,css,docker,firebase,gcp,git,github,gitlab,html,java,js,kotlin,laravel,maven,nodejs,php,py,react,replit,stackoverflow,tailwind,unity,ae,au,ai,ps,pr,xd,figma" />
   </a>
 </p>
