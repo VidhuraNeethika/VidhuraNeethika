@@ -47,7 +47,7 @@
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">  -->
 <!-- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">  -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 # 📊 GitHub Stats:
@@ -55,5 +55,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vidhura000&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhura000&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!--<p>&nbsp;<img align="" width="900"  src="https://github-readme-stats.vercel.app/api?username=Vidhura000&show_icons=true&locale=en" alt="Vidhura000" /></p>-->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vidhura000&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
