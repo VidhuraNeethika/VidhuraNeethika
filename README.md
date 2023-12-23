@@ -5,15 +5,16 @@
 ### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vidhura000&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,postman,angular,angular,c,cpp,cloudflare,codepen,css,docker,firebase,gcp,git,github,gitlab,html,java,js,kotlin,laravel,maven,nodejs,php,py,react,replit,stackoverflow,tailwind,unity" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,arduino,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,figma" />
   </a>
 </p>
 
