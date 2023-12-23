@@ -51,10 +51,9 @@
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/apiusername=Vidhura000&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)</br>
+![](https://github-readme-stats.vercel.app/api?username=Vidhura000&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vidhura000&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhura000&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!--<p>&nbsp;<img align="" width="900"  src="https://github-readme-stats.vercel.app/api?username=Vidhura000&show_icons=true&locale=en" alt="Vidhura000" /></p>-->
 
-<p><img align=""  width="900"  height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhura000&" alt="Vidhura000" /></p>
