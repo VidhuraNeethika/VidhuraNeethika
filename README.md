@@ -21,7 +21,7 @@
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vidhura000&show_icons=true&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhura000&layout=donut-vertical&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhura000&layout=donut-vertical&langs_count=8&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353&hide_progress=true)
 
 ### Top Contributed Repositories
 
@@ -31,4 +31,4 @@
 
 ### About Me:
 
-👋 Hey, I'm Vidhura, a full-stack software developer with a passion for building Android applications, web applications, and J2EE applications.<br>🛠️ I'm currently working on various projects in the Android and web development space, honing my skills and exploring new technologies.<br>🤝 I'm always open to collaboration and eager to work with other developers on exciting projects. If you have an idea or need a helping hand, feel free to reach out!<br>🙏 I'm also looking for help and guidance from experienced developers in areas like software architecture, performance optimization, and user experience design.<br>📚 Currently, I'm focused on expanding my knowledge in areas like Kotlin, React, and cloud technologies like AWS and Firebase.<br>❓ If you have any questions about Android development, web development, or software engineering in general, feel free to ask me. I'll do my best to help you out!<br>⚡ Fun Facts: Besides coding
+Hey, I'm Vidhura, a full-stack software developer with a passion for building Android applications, web applications, and J2EE applications.<br>I'm currently working on various projects in the Android and web development space, honing my skills and exploring new technologies.<br>I'm always open to collaboration and eager to work with other developers on exciting projects. If you have an idea or need a helping hand, feel free to reach out!<br>I'm also looking for help and guidance from experienced developers in areas like software architecture, performance optimization, and user experience design.<br>Currently, I'm focused on expanding my knowledge in areas like Kotlin, React, and cloud technologies like AWS and Firebase.<br>If you have any questions about Android development, web development, or software engineering in general, feel free to ask me. I'll do my best to help you out!<br>Fun Facts: Besides coding
