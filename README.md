@@ -6,15 +6,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Vidhura000&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 
+###  Technologies:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,postman,angular,angular,c,cpp,cloudflare,codepen,css,docker,firebase,gcp,git,github,gitlab,html,java,js,kotlin,laravel,maven,nodejs,php,py,react,replit,stackoverflow,tailwind,unity" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,figma" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,postman,angular,angular,c,cpp,cloudflare,codepen,css,docker,firebase,gcp,git,github,gitlab,html,java,js,kotlin,laravel,maven,nodejs,php,py,react,replit,stackoverflow,tailwind,unity,ae,au,ai,ps,pr,xd,figma" />
   </a>
 </p>
 
