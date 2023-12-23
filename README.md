@@ -3,7 +3,7 @@
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&random=false&width=1000&lines=Hey%2C+I'm+Vidhura+Neethika;I'm+BEng+(Hons)+Software+Engineering+Undergraduate>)](https://git.io/typing-svg)
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=vidhura000.vidhura000&left_color=red&right_color=green) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vidhura000&label=Profile%20views&color=39d353&style=flat" alt="Vidhura000" /> </p>
 
 ### GitHub Trophies
 
