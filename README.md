@@ -1,7 +1,7 @@
 <!--<p align="center">
   <img src="https://media1.giphy.com/media/L3Vca26EaTIEU/giphy.gif?cid=ecf05e47m27mf83502wojstedmrtl7t9pd00nx6fa14vvema&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead" style="width: 100%; height: 300px;">
 </p>-->
-<h1 align="center">Hi 👋, I'm Vidhura Neethika 👩‍💻</h1>
+<h1 align="center">Hi, I'm Vidhura Neethika</h1>
 <h3 align="center">BEng (Hons) Software Engineering Undergraduate</h3>
 <!-- <img aling="center" alt="Developer" width="900"   height="140" hi src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
  -->
