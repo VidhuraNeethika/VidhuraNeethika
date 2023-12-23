@@ -16,7 +16,7 @@
 <p align="center">
 
 ###  GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=vidhura000&theme=sunset-gradient&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vidhura000&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=Vidhura000&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vidhura000&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhura000&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
