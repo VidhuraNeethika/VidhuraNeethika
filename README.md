@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vidhura000&label=Profile%20views&color=0e75b6&style=flat" alt="Vidhura000" /> </p>
 
 ### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vidhura000&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Vidhura000&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ### About Me:
 👋 Hey, I'm Vidhura, a full-stack software developer with a passion for building Android applications, web applications, and J2EE applications.<br>🛠️ I'm currently working on various projects in the Android and web development space, honing my skills and exploring new technologies.<br>🤝 I'm always open to collaboration and eager to work with other developers on exciting projects. If you have an idea or need a helping hand, feel free to reach out!<br>🙏 I'm also looking for help and guidance from experienced developers in areas like software architecture, performance optimization, and user experience design.<br>📚 Currently, I'm focused on expanding my knowledge in areas like Kotlin, React, and cloud technologies like AWS and Firebase.<br>❓ If you have any questions about Android development, web development, or software engineering in general, feel free to ask me. I'll do my best to help you out!<br>⚡ Fun Facts: Besides coding
@@ -50,7 +50,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhura000&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vidhura000&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Vidhura000&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
