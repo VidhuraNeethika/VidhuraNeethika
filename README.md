@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Vidhura Neethika</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Vidhura+Neethika)](https://git.io/typing-svg)
 <h3 align="center">BEng (Hons) Software Engineering Undergraduate</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hey%2C+I'm+Vidhura+Neethika)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vidhura000&label=Profile%20views&color=0e75b6&style=flat" alt="Vidhura000" /> </p>
 
