@@ -9,7 +9,7 @@
 
 ### GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Vidhura000&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Vidhura000&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ### Technologies:
 
