@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=VidhuraNeethika&label=Profile%20views&color=0d1117&style=for-the-badge" alt="VidhuraNeethika" /> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VidhuraNeethika&theme=github-dark&hide_border=true&card_width=1000)]
+![GitHub Streak](https://streak-stats.demolab.com?user=VidhuraNeethika&theme=github-dark&hide_border=true&card_width=1000)
 
 ### GitHub Trophies
 
