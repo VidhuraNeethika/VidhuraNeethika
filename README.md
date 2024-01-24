@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=VidhuraNeethika&label=Profile%20views&color=0d1117&style=for-the-badge" alt="VidhuraNeethika" /> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VidhuraNeethika&theme=github-dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VidhuraNeethika&theme=github-dark&hide_border=true&card_width=1000)]
 
 ### GitHub Trophies
 
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,postman,angular,angular,c,cpp,cloudflare,codepen,css,docker,firebase,gcp,git,github,gitlab,html,java,js,kotlin,laravel,maven,nodejs,php,py,react,replit,stackoverflow,tailwind,unity,ae,au,ai,ps,pr,xd,figma" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,postman,angular,c,cpp,cloudflare,codepen,css,docker,firebase,gcp,git,github,gitlab,html,java,js,kotlin,laravel,maven,nodejs,php,py,react,replit,stackoverflow,tailwind,unity,ae,au,ai,ps,pr,xd,figma" />
   </a>
 </p>
 
