@@ -20,7 +20,7 @@
 </p>
 
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VidhuraNeethika&show_icons=true&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353)<br/>
+![](https://github-readme-stats.vercel.app/api?username=VidhuraNeethika&show_icons=true&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353)
 ![](https://github-contributor-stats.vercel.app/api?username=VidhuraNeethika&limit=5&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353&combine_all_yearly_contributions=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidhuraNeethika&langs_count=8&layout=compact&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353)
 
