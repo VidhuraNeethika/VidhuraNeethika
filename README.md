@@ -7,15 +7,15 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VidhuraNeethika&theme=github-dark&hide_border=true&card_width=1000)
 
-### GitHub Trophies
+<!--### GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=VidhuraNeethika&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=VidhuraNeethika&theme=darkhub&no-frame=true&no-bg=false&margin-w=4) -->
 
 ### Technologies:
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,postman,angular,c,cpp,cloudflare,codepen,css,docker,firebase,gcp,git,github,gitlab,html,java,js,kotlin,laravel,maven,nodejs,php,py,react,replit,stackoverflow,tailwind,unity,ae,au,ai,ps,pr,xd,figma" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,visualstudio,postman,cloudflare,codepen,css,docker,firebase,gcp,git,github,gitlab,html,java,js,kotlin,laravel,maven,nodejs,php,py,react,replit,stackoverflow,tailwind,ae,au,ai,ps,pr,xd,figma" />
   </a>
 </p>
 
