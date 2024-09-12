@@ -28,9 +28,11 @@
 
 </div>
 
+<!--
 <div align="center">
   <a href="https://app.daily.dev/vidhuraneethika"><img src="https://api.daily.dev/devcards/v2/K3npNh3X2MTiF1FtmRavK.png?r=mwh&type=wide" width="652" alt="Vidhura Neethika's Dev Card"/></a>
 </div>
+-->
 
 ### About Me:
 
