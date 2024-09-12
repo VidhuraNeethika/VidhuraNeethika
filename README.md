@@ -28,6 +28,8 @@
 
 </div>
 
+<a href="https://app.daily.dev/vidhuraneethika"><img src="https://api.daily.dev/devcards/v2/K3npNh3X2MTiF1FtmRavK.png?r=mwh&type=wide" width="652" alt="Vidhura Neethika's Dev Card"/></a>
+
 ### About Me:
 
 Hey, I'm Vidhura, a full-stack software developer with a passion for building Android applications, web applications, and J2EE applications.I'm currently working on various projects in the Android and web development space, honing my skills and exploring new technologies.I'm always open to collaboration and eager to work with other developers on exciting projects. If you have an idea or need a helping hand, feel free to reach out!I'm also looking for help and guidance from experienced developers in areas like software architecture, performance optimization, and user experience design.Currently, I'm focused on expanding my knowledge in areas like Kotlin, React, and cloud technologies like AWS and Firebase.If you have any questions about Android development, web development, or software engineering in general, feel free to ask me. I'll do my best to help you out!Fun Facts: Besides coding
