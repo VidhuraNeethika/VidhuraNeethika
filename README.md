@@ -1,7 +1,7 @@
 ![MasterHead](https://i.ibb.co/FsTDsXT/cover.png)
 <div align="center">
 
-[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39d353&center=true&random=false&width=1000&lines=I'm+Vidhura+Neethika;BEng+(Hons)+Software+Engineering+Undergraduate>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D65D5&center=true&width=435&lines=I'm+Vidhura+Neethika;BEng(Hons)Software+Engineering+(UG);DevOps+Enthusiast;Graphic+Designer)](https://git.io/typing-svg)
 
 <!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=VidhuraNeethika&label=Profile%20views&color=0d1117&style=for-the-badge" alt="VidhuraNeethika" /> </p>
