@@ -1,20 +1,19 @@
-#### Hello, I'm Vidhura Neethika Udayananda  
+#### Hey,I'm Vidhura Neethika  
 
-##### About Me  
 ```java
 
-public class VidhuraNeethika {
+public class AboutMe {
     
     private static final String NAME = "Vidhura Neethika Udayananda";
     private static final String POSITION = "Software Engineer";
-    private static final String LOCATION = "Sri Lanka";
+    private static final String COUNTRY = "Sri Lanka";
+    private static final String PORTFOLIO = "vidhuraneethika.vercel.app";
     
     private static final String[] INTERESTS = {
         "Full Stack Development",
+        "Mobile App Development",
         "DevOps",
-        "Cloud Computing",
-        "Machine Learning",
-        "Open Source Contributions"
+        "UI/UX Design",
     };
 
     private static final String[] SKILLS = {
@@ -25,11 +24,13 @@ public class VidhuraNeethika {
 
     public static void main(String[] args) {
         System.out.println("Hey!");
-        System.out.println("I am " + NAME + ", a passionate " + POSITION + ".");
+        System.out.println("I am " + NAME + ", a passionate " + POSITION + " from " + COUNTRY + ".");
         System.out.println("My interests include:");
         for (String interest : INTERESTS) {
             System.out.println(" - " + interest);
         }
+        System.out.println("Check out my portfolio: " + PORTFOLIO);
         System.out.println("Let's connect and build something amazing!");
     }
 }
+
