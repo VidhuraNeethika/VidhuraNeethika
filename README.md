@@ -1,5 +1,3 @@
-#### Hey, I'm Vidhura Neethika  
-
 ```java
 
 public class AboutMe {
