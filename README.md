@@ -3,8 +3,7 @@
 <h3 align="center">Full Stack Software Engineer | UI/UX Designer</h3>
 
 <p align="center">
-<img width="42.5%" height="48%" src="https://github-readme-streak-stats.herokuapp.com?user=VidhuraNeethika&theme=tokyonight" />
-  <img width="40%" height="48%" src="https://github-readme-stats.vercel.app/api?username=VidhuraNeethika&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VidhuraNeethika&theme=merko&&hide_border=true" alt="Vidhura Neethika's GitHub Streak"/>
 </p>
 
 ---
@@ -22,29 +21,47 @@ I’m a full-stack software engineer specializing in web, mobile, and cross-plat
 
 ---
 
-## Tech Stack & Skills  
-### Languages
-- Java, PHP, JavaScript, TypeScript
+## Tech Stack & Skills
 
-### Frameworks & Libraries
-- Frontend: React.js, Next.js, Tailwind CSS, Bootstrap, Framer Motion  
-- Backend: Node.js, Express.js, Laravel, Java EE, Spring Boot  
-- Mobile: React Native  
-- Java Desktop: Swing, Jasper Reports  
-
-### Databases
-- MySQL, PostgreSQL, Firebase  
-
-### Tools & Platforms
-- Git & GitHub  
-- Android Studio, IntelliJ IDEA, VS Code, WebStorm, PHPStorm  
-- Docker, Postman  
-
-### Interests
-- Web & Mobile Development  
-- Cloud Security  
-- UI/UX Design  
-- AI  
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr>
+    <td><b>Category</b></td>
+    <td><b>Technologies</b></td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Java, PHP, JavaScript, TypeScript</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React.js, Next.js, Tailwind CSS, Bootstrap, Framer Motion</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Node.js, Express.js, Laravel, Java EE, Spring Boot</td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>React Native</td>
+  </tr>
+  <tr>
+    <td><b>Java Desktop</b></td>
+    <td>Swing, Jasper Reports</td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>MySQL, PostgreSQL, Firebase</td>
+  </tr>
+  <tr>
+    <td><b>Tools & Platforms</b></td>
+    <td>Git, GitHub, Android Studio, IntelliJ IDEA, VS Code, WebStorm, PHPStorm, Docker, Postman</td>
+  </tr>
+  <tr>
+    <td><b>Interests</b></td>
+    <td>Web & Mobile Development, Cloud Security, UI/UX Design, AI</td>
+  </tr>
+</table>
+ 
 
 ---
 
