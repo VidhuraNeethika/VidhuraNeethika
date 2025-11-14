@@ -1,35 +1,65 @@
-![MasterHead](https://i.ibb.co/FsTDsXT/cover.png)
-<div align="center">
-
-<!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D65D5&center=true&width=435&lines=I'm+Vidhura+Neethika;BEng(Hons)Software+Engineering+(UG);DevOps+Enthusiast;Graphic+Designer)](https://git.io/typing-svg)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=VidhuraNeethika&label=Profile%20views&color=0d1117&style=for-the-badge" alt="VidhuraNeethika" /> </p>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VidhuraNeethika&theme=github-dark&hide_border=true&card_width=1000)
-
-### GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=VidhuraNeethika&theme=darkhub&no-frame=true&no-bg=false&margin-w=4) 
-
-### Technologies:
+<!-- ![MasterHead](https://i.ibb.co/FsTDsXT/cover.png) -->
+<h1 align="center">Hey, I'm Vidhura Neethika</h1>
+<h3 align="center">Full Stack Software Engineer | UI/UX Designer</h3>
 
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,idea,phpstorm,webstorm,vscode,visualstudio,postman,cloudflare,codepen,css,docker,firebase,gcp,git,github,gitlab,html,java,js,laravel,maven,nodejs,php,vite,react,nextjs,express,mysql,ts,hibernate,replit,stackoverflow,tailwind,ae,au,ai,ps,pr,xd,figma" />
-  </a>
+<img width="42.5%" height="48%" src="https://github-readme-streak-stats.herokuapp.com?user=VidhuraNeethika&theme=tokyonight" />
+  <img width="40%" height="48%" src="https://github-readme-stats.vercel.app/api?username=VidhuraNeethika&show_icons=true&theme=tokyonight" />
 </p>
 
-### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VidhuraNeethika&show_icons=true&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353)
-![](https://github-contributor-stats.vercel.app/api?username=VidhuraNeethika&limit=5&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353&combine_all_yearly_contributions=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VidhuraNeethika&langs_count=8&layout=compact&bg_color=0d1117&title_color=39d353&text_color=ffffff&hide_border=true&icon_color=39d353)
--->
+---
 
-</div>
+## About Me  
+I’m a full-stack software engineer specializing in web, mobile, and cross-platform development. I work mainly with Java, TypeScript, Node.js, and React with NextJS to build scalable applications. Alongside development, I also focus on UI/UX and brand design, blending technical expertise with creativity to craft impactful digital experiences.
 
-<!--
-<div align="center">
-  <a href="https://app.daily.dev/vidhuraneethika"><img src="https://api.daily.dev/devcards/v2/K3npNh3X2MTiF1FtmRavK.png?r=mwh&type=wide" width="652" alt="Vidhura Neethika's Dev Card"/></a>
-</div>
--->
+---
+
+## Education  
+- **BEng (Hons) Software Engineering (Graduate)** – IIC University of Technology, Cambodia (2024–2025)  
+- **HND in Software Engineering** – UK Awards, Java Institute (2022–2024)  
+- **Diploma in Software Engineering** – Java Institute (2020–2022)  
+- **NVQ Level 3 – Computer Application Assistant**  
+
+---
+
+## Tech Stack & Skills  
+### Languages
+- Java, PHP, JavaScript, TypeScript
+
+### Frameworks & Libraries
+- Frontend: React.js, Next.js, Tailwind CSS, Bootstrap, Framer Motion  
+- Backend: Node.js, Express.js, Laravel, Java EE, Spring Boot  
+- Mobile: React Native  
+- Java Desktop: Swing, Jasper Reports  
+
+### Databases
+- MySQL, PostgreSQL, Firebase  
+
+### Tools & Platforms
+- Git & GitHub  
+- Android Studio, IntelliJ IDEA, VS Code, WebStorm, PHPStorm  
+- Docker, Postman  
+
+### Interests
+- Web & Mobile Development  
+- Cloud Security  
+- UI/UX Design  
+- AI  
+
+---
+
+## Connect With Me
+
+- **GitHub:** https://github.com/VidhuraNeethika  
+- **LinkedIn:** https://www.linkedin.com/in/vidhuraneethika/  
+- **Email:** vidhuraneethika000@gmail.com  
+- **Dribbble:** https://dribbble.com/vidhuraneethika  
+- **Behance:** https://www.behance.net/vidhuraneethika  
+- **Portfolio:** https://vidhuraneethika.vercel.app/
+
+---
+
+⭐ **Thanks for visiting my profile!**  
+Feel free to explore my repositories and reach out for collaboration.
+
+
