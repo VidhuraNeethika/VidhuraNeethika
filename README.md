@@ -17,7 +17,7 @@ I’m a full-stack software engineer specializing in web, mobile, and cross-plat
 
 ## Tech Stack & Skills
 
-<table border="1" cellspacing="0" cellpadding="8">
+<table cellspacing="0" cellpadding="8">
   <tr>
     <td><b>Category</b></td>
     <td><b>Technologies</b></td>
