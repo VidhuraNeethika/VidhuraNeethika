@@ -6,20 +6,14 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=VidhuraNeethika&theme=merko&&hide_border=true" alt="Vidhura Neethika's GitHub Streak"/>
 </p>
 
----
-
 ## About Me  
 I’m a full-stack software engineer specializing in web, mobile, and cross-platform development. I work mainly with Java, TypeScript, Node.js, and React with NextJS to build scalable applications. Alongside development, I also focus on UI/UX and brand design, blending technical expertise with creativity to craft impactful digital experiences.
-
----
 
 ## Education  
 - **BEng (Hons) Software Engineering (Graduate)** – IIC University of Technology, Cambodia (2024–2025)  
 - **HND in Software Engineering** – UK Awards, Java Institute (2022–2024)  
 - **Diploma in Software Engineering** – Java Institute (2020–2022)  
 - **NVQ Level 3 – Computer Application Assistant**  
-
----
 
 ## Tech Stack & Skills
 
@@ -61,9 +55,6 @@ I’m a full-stack software engineer specializing in web, mobile, and cross-plat
     <td>Web & Mobile Development, Cloud Security, UI/UX Design, AI</td>
   </tr>
 </table>
- 
-
----
 
 ## Connect With Me
 
@@ -74,9 +65,8 @@ I’m a full-stack software engineer specializing in web, mobile, and cross-plat
 - **Behance:** https://www.behance.net/vidhuraneethika  
 - **Portfolio:** https://vidhuraneethika.vercel.app/
 
----
 
-⭐ **Thanks for visiting my profile!**  
+#### ⭐ Thanks for visiting my profile!
 Feel free to explore my repositories and reach out for collaboration.
 
 
