@@ -1,6 +1,5 @@
 <!-- ![MasterHead](https://i.ibb.co/FsTDsXT/cover.png) -->
 <h1 align="center">Hey, I'm Vidhura Neethika</h1>
-<h3 align="center">Full Stack Software Engineer | UI/UX Designer</h3>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=VidhuraNeethika&theme=merko&&hide_border=true" alt="Vidhura Neethika's GitHub Streak"/>
