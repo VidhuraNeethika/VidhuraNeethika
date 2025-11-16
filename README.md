@@ -29,11 +29,11 @@ I’m a full-stack software engineer specializing in web, mobile, and cross-plat
   </tr>
   <tr>
     <td><b>Mobile</b></td>
-    <td>React Native</td>
+    <td>React Native, Capacitors, Java</td>
   </tr>
   <tr>
     <td><b>Java Desktop</b></td>
-    <td>Swing, Jasper Reports</td>
+    <td>Swing</td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
